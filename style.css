@@ -1,0 +1,40 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #2C6161;
+}
+
+header{
+    font-size: 48px;
+    color: white;
+}
+
+h1{
+    margin-left: 88px;
+}
+
+section{
+    display: flex;
+    background-color: white;
+    font-size: 48px;    
+}
+
+aside{
+    background-color: #C4C4C4;
+    font-size: 24px;   
+    height: 600px; 
+    width: 380px;
+    margin-left: 86px;
+    padding: 0 30px;
+}
+
+ol{
+    width: 871px;
+    margin-top: 58px;
+    margin-left: 52px;
+}
+
+ul{
+    margin-top: 100px;
+}
